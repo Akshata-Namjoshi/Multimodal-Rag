@@ -1,0 +1,7 @@
+streamlit
+pypdf
+scikit-learn
+pdfplumber
+pypdfium2
+Pillow
+requests
